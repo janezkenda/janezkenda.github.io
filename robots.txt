@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://recyclerr.github.io//sitemap.xml
+Sitemap: https://janezkenda.github.io//sitemap.xml
